@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://www.dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 31 августа 2025 07:39:40
- * Version: 1.0.12
+ * Last Updated: 01 сентября 2025 11:06:18
+ * Version: 1.0.13
  */
 
 namespace Behavioral;
