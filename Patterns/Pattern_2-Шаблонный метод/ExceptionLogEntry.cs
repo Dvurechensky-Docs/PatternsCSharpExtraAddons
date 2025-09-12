@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://www.dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 11 сентября 2025 06:51:57
- * Version: 1.0.23
+ * Last Updated: 12 сентября 2025 15:29:56
+ * Version: 1.0.24
  */
 
 namespace Creational;
